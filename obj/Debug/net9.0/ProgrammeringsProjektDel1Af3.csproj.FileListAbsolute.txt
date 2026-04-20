@@ -1,0 +1,14 @@
+/Users/zandermoore/RiderProjects/Programmerings projekt del 1 af 3/Programmerings projekt del 1 af 3/bin/Debug/net9.0/ProgrammeringsProjektDel1Af3
+/Users/zandermoore/RiderProjects/Programmerings projekt del 1 af 3/Programmerings projekt del 1 af 3/bin/Debug/net9.0/ProgrammeringsProjektDel1Af3.deps.json
+/Users/zandermoore/RiderProjects/Programmerings projekt del 1 af 3/Programmerings projekt del 1 af 3/bin/Debug/net9.0/ProgrammeringsProjektDel1Af3.runtimeconfig.json
+/Users/zandermoore/RiderProjects/Programmerings projekt del 1 af 3/Programmerings projekt del 1 af 3/bin/Debug/net9.0/ProgrammeringsProjektDel1Af3.dll
+/Users/zandermoore/RiderProjects/Programmerings projekt del 1 af 3/Programmerings projekt del 1 af 3/bin/Debug/net9.0/ProgrammeringsProjektDel1Af3.pdb
+/Users/zandermoore/RiderProjects/Programmerings projekt del 1 af 3/Programmerings projekt del 1 af 3/obj/Debug/net9.0/ProgrammeringsProjektDel1Af3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zandermoore/RiderProjects/Programmerings projekt del 1 af 3/Programmerings projekt del 1 af 3/obj/Debug/net9.0/ProgrammeringsProjektDel1Af3.AssemblyInfoInputs.cache
+/Users/zandermoore/RiderProjects/Programmerings projekt del 1 af 3/Programmerings projekt del 1 af 3/obj/Debug/net9.0/ProgrammeringsProjektDel1Af3.AssemblyInfo.cs
+/Users/zandermoore/RiderProjects/Programmerings projekt del 1 af 3/Programmerings projekt del 1 af 3/obj/Debug/net9.0/ProgrammeringsProjektDel1Af3.csproj.CoreCompileInputs.cache
+/Users/zandermoore/RiderProjects/Programmerings projekt del 1 af 3/Programmerings projekt del 1 af 3/obj/Debug/net9.0/ProgrammeringsProjektDel1Af3.dll
+/Users/zandermoore/RiderProjects/Programmerings projekt del 1 af 3/Programmerings projekt del 1 af 3/obj/Debug/net9.0/refint/ProgrammeringsProjektDel1Af3.dll
+/Users/zandermoore/RiderProjects/Programmerings projekt del 1 af 3/Programmerings projekt del 1 af 3/obj/Debug/net9.0/ProgrammeringsProjektDel1Af3.pdb
+/Users/zandermoore/RiderProjects/Programmerings projekt del 1 af 3/Programmerings projekt del 1 af 3/obj/Debug/net9.0/ProgrammeringsProjektDel1Af3.genruntimeconfig.cache
+/Users/zandermoore/RiderProjects/Programmerings projekt del 1 af 3/Programmerings projekt del 1 af 3/obj/Debug/net9.0/ref/ProgrammeringsProjektDel1Af3.dll
