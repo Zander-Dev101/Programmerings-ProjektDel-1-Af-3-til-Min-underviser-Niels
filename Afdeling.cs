@@ -1,4 +1,4 @@
-namespace Programmerings_projekt_del_2_af_3;
+namespace Programmerings_projekt_del_3_af_3;
 
 public enum Afdeling
 {
